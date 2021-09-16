@@ -6,7 +6,7 @@ Created on Wed Sep 15 16:49:36 2021
 @author: mkaynarca
 """
 
-n = 8
+n=8
 x=2
 y=3
 
